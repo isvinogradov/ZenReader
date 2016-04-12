@@ -1,5 +1,7 @@
-conf/*.example
+conf/*.conf
+!conf/*.example
 *.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
